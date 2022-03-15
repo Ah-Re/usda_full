@@ -1,0 +1,14 @@
+.food-item-container {
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 3rem; */
+    /* display: flex;
+    flex-direction: row; */
+    width: 50%;
+    text-align: center;
+    margin: auto;
+
+}

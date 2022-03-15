@@ -1,0 +1,49 @@
+.nav {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 3rem;
+}
+
+.nav h1 {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav h1:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.nav h1:focus {
+    color: white;
+    text-decoration: none;
+}
+
+.nav h1:active {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.shopping-icon {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.shopping-icon:visited {
+    text-decoration: none;
+}
+
+
+.shopping-icon:active {
+    text-decoration: none;
+}
+
+.shopping-icon:focus {
+    text-decoration: none;
+}

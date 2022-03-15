@@ -1,0 +1,14 @@
+.searchbar {
+    margin-top: 3rem;
+    text-align: center;
+
+}
+
+.search-button {
+    padding: 10px;
+}
+
+.search-input {
+    padding: 10px;
+    width: 20%;
+}

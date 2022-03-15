@@ -1,0 +1,14 @@
+.remove-from-cart-button {
+    background-color: red;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.food-item-details {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}

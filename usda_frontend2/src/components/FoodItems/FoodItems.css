@@ -1,0 +1,27 @@
+.food-items {
+    border: 2px solid black;
+    color: red;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+
+.food-item-header {
+    background-color: black;
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.add-to-cart-button {
+    background-color: green;
+    border-style: none;
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.add-to-cart-button:hover {
+    filter: brightness(120%);
+}
